@@ -1,4 +1,4 @@
-# E-Commerce-Data-Analysis-Power-BI-Project
+# E-Commerce-Sales-Dashboard-Power-BI-Project
 
 *Created interactive dashboard to track and analyze online sales data Used complex parameters to drill down in worksheet and customization using filters and slicers*
 
